@@ -43,6 +43,8 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
 * [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio. 
+* [grab](https://github.com/lorien/grab) - Web Scraping Framework.
+* [bose](https://github.com/omkarcloud/bose) - A feature-rich Python framework for Web Scraping and Bot Development
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
